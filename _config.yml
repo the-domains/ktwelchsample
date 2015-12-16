@@ -1,0 +1,28 @@
+name: ktwelchsample
+favicon: null
+layout_spectrum: 0.43959624064154923
+typography_spectrum: 0.683896774193272
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.7288108174689114
+  lightness: 0.6543565611355007
+  saturation: 0.006481735734269023
+  rhythmicContrast: 0.40376800834201276
+purpose: []
