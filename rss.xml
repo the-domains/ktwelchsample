@@ -2,19 +2,26 @@
     <channel>
         <title><![CDATA[Adventures in personal growth, productivity, and entrepreneurship]]></title>
         <description><![CDATA[Adventures in personal growth, productivity, and entrepreneurship]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ktwelchsample/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Jan 2016 07:45:54 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 05 Jan 2016 02:03:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ktwelchsample/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Why?]]></title>
-            <description><![CDATA[<article><h1>Why?</h1><p>Before digging into any interesting content, I must
+            <title><![CDATA[What do you see in 2016?]]></title>
+            <description><![CDATA[<article><h1>What do you see in 2016?</h1><p>(image credit)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c8c228251aa506ece3e8c265896a81ec56b899ef.jpg"></article>]]></description>
+            <link>https://thegrid.ai/ktwelchsample/2016-in-focus/index.html</link>
+            <guid isPermaLink="false">15b4f77e-fff7-44bd-a825-c1e807d67037</guid>
+            <pubDate>Tue, 05 Jan 2016 02:03:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why does this blog exist?]]></title>
+            <description><![CDATA[<article><h1>Why does this blog exist?</h1><p>Before digging into any interesting content, I must
 firmly answer why this blog exists. Why am I choosing to write a blog and what
 can you get out of it? There are many reasons to write a blog, and I am
-motivated by several of them:</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe5a71fa076ab6809e44d5a616c1a09b8f6452c5.jpg"></article>]]></description>
-            <link>undefinedwhy/index.html</link>
+motivated by several of them:</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/329e94f16c66e6fb2650e7b3c11cbe85b1016c23.jpg"></article>]]></description>
+            <link>https://thegrid.ai/ktwelchsample/why/index.html</link>
             <guid isPermaLink="false">a551f21e-1eb6-49a2-b4a7-b6c1c64df3d0</guid>
-            <pubDate>Mon, 04 Jan 2016 07:45:45 GMT</pubDate>
+            <pubDate>Tue, 05 Jan 2016 01:24:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
